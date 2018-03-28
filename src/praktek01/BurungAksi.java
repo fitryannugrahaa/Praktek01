@@ -32,5 +32,9 @@ public class BurungAksi {
         Elang.Warna_bulu="Hitam";
         Elang.Paruh="untuk_mecabit_makanan";
         Elang.Kaki="Mencengkram_mangsa";
+        
+        Merak.cetakInfo();
+        pipit.cetakInfo();
+        Elang.cetakInfo();
     }
 }
